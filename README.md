@@ -1,4 +1,4 @@
-# wonderful-quotes
+# quotes app
 
 > A Vue.js project
 
